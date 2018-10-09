@@ -75,4 +75,4 @@ Thank you so much for visiting the project and we do hope that you'll join us on
 [link_abhi8953]: https://github.com/abhi8953
 [link_nikeshbalami]: https://github.com/nikeshbalami
 [link_neekes]: http://www.neekes.com.np/
-[link_leancanvas]: https://docs.google.com/presentation/d/13la3fND9WrML0x25j4JOg6Cdk3Xif7s7UklthpGMGuE/edit?usp=sharing
+[link_opencanvas]: https://docs.google.com/presentation/d/13la3fND9WrML0x25j4JOg6Cdk3Xif7s7UklthpGMGuE/edit?usp=sharing
